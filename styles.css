@@ -16,6 +16,9 @@ body {
   border-radius: 10px;
   text-align: center;
 }
+.container h1 {
+  color: #c71313;
+}
 
 button {
   background: #6c63ff;
