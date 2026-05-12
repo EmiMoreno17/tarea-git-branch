@@ -22,8 +22,13 @@ body {
 }
 
 button {
-  background: #6c63ff;
+  background: #352f68;
   color: white;
   border: none;
   padding: 10px 20px;
+  height: 2rem;
+}
+button:hover {
+  background: #c71313;
+  
 }
